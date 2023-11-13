@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Node.js(Express) Project.**
 
-- 🌱 I’m currently learning **MongoDB,SQl**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://kamaramusa.netlify.app/](https://kamaramusa.netlify.app/)
 
-- 💬 Ask me about **React.js, Javascript, Typescript, Node.js,**
+- 💬 Ask me about **React.js, Javascript, Typescript, Node.js,Next.js**
 
 - 📫 How to reach me **kamaramusa56@gmail.com**
 
