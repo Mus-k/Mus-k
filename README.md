@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mus-k" alt="mus-k" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js(Express) Project.**
+- 🔭 I’m currently working on **Javascript Project.**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently improving my skills ****
 
 - 👨‍💻 All of my projects are available at [https://kamaramusa.netlify.app/](https://kamaramusa.netlify.app/)
 
-- 💬 Ask me about **React.js, Javascript, Typescript, Node.js,Next.js**
+- 💬 Ask me about **React.js, Javascript,**
 
 - 📫 How to reach me **kamaramusa56@gmail.com**
 
