@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently improving my skills ****
 
-- 👨‍💻 All of my projects are available at [https://kamaramusa.netlify.app/](https://kamaramusa.netlify.app/)
-
 - 💬 Ask me about **React.js, Javascript,**
 
 - 📫 How to reach me **kamaramusa56@gmail.com**
