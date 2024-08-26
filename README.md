@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm <strong>Musa Kamara</strong></h1>
-<h3 align="center">A passionate Web developer based in Istanbul.</h3>
+<h3 align="center">A passionate Frontend developer based in Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mus-k&label=Profile%20views&color=0e75b6&style=flat" alt="mus-k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mus-k" alt="mus-k" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript Project.**
+- 🔭 I’m currently working on **Fullstack Project.**
 
-- 🌱 I’m currently improving my skills ****
+- 🌱 I’m currently improving my Node.js and Typescript skills ****
 
 - 💬 Ask me about **React.js, Javascript,**
 
