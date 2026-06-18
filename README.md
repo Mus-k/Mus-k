@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Fullstack Project.**
 
-- 🌱 I’m currently improving my Node.js and Typescript skills ****
-
 - 💬 Ask me about **AI**
 
 - 📫 How to reach me **kamaramusah6@gmail.com**
