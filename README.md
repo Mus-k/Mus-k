@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm <strong>Musah</strong></h1>
-<h3 align="center">A passionate Web developer based in Istanbul.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mus-k&label=Profile%20views&color=0e75b6&style=flat" alt="mus-k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mus-k" alt="mus-k" /></a> </p>
+<h3 align="center">A passionate AI Web developer based in Istanbul.</h3>
 
 - 🔭 I’m currently working on **Fullstack Project.**
 
 - 🌱 I’m currently improving my Node.js and Typescript skills ****
 
-- 💬 Ask me about **React.js, Javascript,**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **kamaramusah6@gmail.com**
 
