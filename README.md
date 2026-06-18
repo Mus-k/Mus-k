@@ -6,6 +6,7 @@
 - 💬 Ask me about **AI**
 
 - 📫 How to reach me **kamaramusah6@gmail.com**
+- 📫 How to reach me WhatsApp **+905426769301*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
