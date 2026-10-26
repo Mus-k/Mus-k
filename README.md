@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm <strong>Musah</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>M. Farouk</strong></h1>
 <h3 align="center">A passionate AI Web developer based in Istanbul.</h3>
 
-- 🔭 I’m currently working on **Fullstack Project.**
+- 🔭 I’m currently working on **AI App.**
 
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me **kamaramusah6@gmail.com**
-- 📫 How to reach me WhatsApp **+905426769301*
+- 📫 How to reach me **kmusa4443@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
