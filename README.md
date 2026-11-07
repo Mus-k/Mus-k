@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm <strong>M. Farouk</strong></h1>
-<h3 align="center">A passionate AI Web developer based in Istanbul.</h3>
 
 - 🔭 I’m currently working on **AI App.**
 
